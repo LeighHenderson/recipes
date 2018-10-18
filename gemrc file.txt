@@ -1,0 +1,19 @@
+---
+gem: --no-ri --no-rdoc
+gemhome: /Users/leigh/.gems
+gempath:
+- /Users/leigh/.gems
+- /usr/lib/ruby/gems/1.8
+:benchmark: false
+:update_sources: true
+:verbose: false
+:backtrace: false
+:sources:
+- http://gems.rubyforge.org/
+- http://rubygems.org/
+:bulk_threshold: 1000
+
+
+
+
+# This was installed as ~/.gemrc, aka /Users/leigh/gemrc
